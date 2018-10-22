@@ -26,7 +26,5 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
-# ignore secret files
+# adding secret files
 /config/secrets.yml
-# testing
-testing
